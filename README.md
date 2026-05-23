@@ -1,6 +1,6 @@
 # Abuhurairah Faheem — BSCS23077
 
-# StudySync Distributed Systems Resiliency Project
+# StudySync Distributed Systems Resiliency Assignment
 ### Parallel and Distributed Computing (PDC)
 
 ---
